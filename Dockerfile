@@ -1,4 +1,4 @@
-# docker-compose up -d && docker logs -f scribe_app_1
+# docker-compose up -d && docker logs -f scribe_app_1lkj
 FROM ubuntu:jammy
 ARG DEBIAN_FRONTEND=noninteractive
 ENV TZ=Etc/UTC
